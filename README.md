@@ -10,6 +10,7 @@
 * `python -m venv venv`
 * `venv\Scripts\activate`
 * `pip install -r requirements.txt`
+* `python main.py`
 
 ## Результат работы
 ![Результат](https://user-images.githubusercontent.com/54501758/203865210-273acff8-63ef-48b8-8f71-c4aa1ba843bb.png)
