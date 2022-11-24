@@ -12,4 +12,4 @@
 * `pip install -r requirements.txt`
 
 ## Результат работы
-!(https://github.com/vyunolbek/parking_tracking/blob/main/raw/result.png)
+<img width="875" alt="result" src="https://user-images.githubusercontent.com/54501758/203865210-273acff8-63ef-48b8-8f71-c4aa1ba843bb.png">
