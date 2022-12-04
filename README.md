@@ -14,3 +14,5 @@
 
 ## Результат работы
 ![Результат](https://user-images.githubusercontent.com/54501758/203865210-273acff8-63ef-48b8-8f71-c4aa1ba843bb.png)
+
+## Написанная мною [статья](https://habr.com/ru/post/703276/) про этот проект
